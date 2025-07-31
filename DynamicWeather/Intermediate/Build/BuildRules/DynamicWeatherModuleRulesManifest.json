@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealProject\\DynamicWeather\\C++\\Project\\V01\\DynamicWeather\\DynamicWeather\\Source\\DynamicWeather\\DynamicWeather.Build.cs",
+		"E:\\UnrealProject\\DynamicWeather\\C++\\Project\\V01\\DynamicWeather\\DynamicWeather\\Source\\DynamicWeather.Target.cs",
+		"E:\\UnrealProject\\DynamicWeather\\C++\\Project\\V01\\DynamicWeather\\DynamicWeather\\Source\\DynamicWeatherEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

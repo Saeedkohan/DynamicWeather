@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DynamicWeather",
+			"Path": "..\\Source\\DynamicWeather.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DynamicWeatherEditor",
+			"Path": "..\\Source\\DynamicWeatherEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
